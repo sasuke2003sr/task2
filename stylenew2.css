@@ -1,0 +1,21 @@
+*{
+    background-color: pink;
+}
+.head{
+    color: blue;
+}
+h2{
+    background-color:lime;
+    color: red;
+}
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+#fe{
+    color: aqua;
+}
